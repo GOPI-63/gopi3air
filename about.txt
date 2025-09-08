@@ -1,0 +1,3 @@
+my name is gopi
+I am pursuing my degree of bsc ai
+I have learned about devops and github
